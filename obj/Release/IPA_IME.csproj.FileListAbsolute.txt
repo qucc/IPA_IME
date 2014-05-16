@@ -1,0 +1,16 @@
+C:\Users\lenovo\Desktop\CircleFormDemo\bin\Release\CircleFormDemo.exe.config
+C:\Users\lenovo\Desktop\CircleFormDemo\bin\Release\CircleFormDemo.exe
+C:\Users\lenovo\Desktop\CircleFormDemo\bin\Release\CircleFormDemo.pdb
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Release\IPA.Form1.resources
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Release\IPA.Properties.Resources.resources
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Release\IPA_IME.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Release\CircleFormDemo.exe
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Release\CircleFormDemo.pdb
+C:\Users\lenovo\Desktop\IPA_IME\bin\Release\IPA_IME.exe.config
+C:\Users\lenovo\Desktop\IPA_IME\bin\Release\IPA_IME.exe
+C:\Users\lenovo\Desktop\IPA_IME\bin\Release\IPA_IME.pdb
+C:\Users\lenovo\Desktop\IPA_IME\obj\Release\IPA.Form1.resources
+C:\Users\lenovo\Desktop\IPA_IME\obj\Release\IPA.Properties.Resources.resources
+C:\Users\lenovo\Desktop\IPA_IME\obj\Release\IPA_IME.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\IPA_IME\obj\Release\IPA_IME.exe
+C:\Users\lenovo\Desktop\IPA_IME\obj\Release\IPA_IME.pdb

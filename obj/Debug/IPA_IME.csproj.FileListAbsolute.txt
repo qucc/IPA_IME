@@ -1,0 +1,17 @@
+C:\Users\lenovo\Desktop\CircleFormDemo\bin\Debug\CircleFormDemo.exe.config
+C:\Users\lenovo\Desktop\CircleFormDemo\bin\Debug\CircleFormDemo.exe
+C:\Users\lenovo\Desktop\CircleFormDemo\bin\Debug\CircleFormDemo.pdb
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Debug\IPA.Form1.resources
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Debug\IPA.Properties.Resources.resources
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Debug\IPA_IME.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Debug\CircleFormDemo.exe
+C:\Users\lenovo\Desktop\CircleFormDemo\obj\Debug\CircleFormDemo.pdb
+C:\Users\lenovo\Desktop\IPA_IME\bin\Debug\IPA_IME.exe.config
+C:\Users\lenovo\Desktop\IPA_IME\bin\Debug\IPA_IME.exe
+C:\Users\lenovo\Desktop\IPA_IME\bin\Debug\IPA_IME.pdb
+C:\Users\lenovo\Desktop\IPA_IME\obj\Debug\IPA_IME.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\IPA_IME\obj\Debug\IPA.Form1.resources
+C:\Users\lenovo\Desktop\IPA_IME\obj\Debug\IPA.Properties.Resources.resources
+C:\Users\lenovo\Desktop\IPA_IME\obj\Debug\IPA_IME.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\IPA_IME\obj\Debug\IPA_IME.exe
+C:\Users\lenovo\Desktop\IPA_IME\obj\Debug\IPA_IME.pdb
